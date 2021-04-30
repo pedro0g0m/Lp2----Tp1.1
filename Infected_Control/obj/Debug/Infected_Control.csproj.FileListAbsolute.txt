@@ -1,0 +1,7 @@
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp1\Tp1\Infected_Control\bin\Debug\Infected_Control.exe.config
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp1\Tp1\Infected_Control\bin\Debug\Infected_Control.exe
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp1\Tp1\Infected_Control\bin\Debug\Infected_Control.pdb
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp1\Tp1\Infected_Control\obj\Debug\Infected_Control.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp1\Tp1\Infected_Control\obj\Debug\Infected_Control.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp1\Tp1\Infected_Control\obj\Debug\Infected_Control.exe
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp1\Tp1\Infected_Control\obj\Debug\Infected_Control.pdb
